@@ -1,0 +1,27 @@
+{
+    "id": "C54474CC",
+    "path": "~/GitHub/iris_project/iris_project.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "337405651",
+    "contents": "",
+    "dirty": false,
+    "created": 1641779600680.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "28,0",
+        "scrollLine": "18"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1641791079,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1641791079200,
+    "read_only": false,
+    "read_only_alternatives": []
+}
